@@ -1,0 +1,8 @@
+Tokyo
+33200000
+New York
+17800000
+Seoul
+17400000
+Mexico City
+17500000
